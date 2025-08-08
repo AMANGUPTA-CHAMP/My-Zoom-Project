@@ -5,6 +5,6 @@ ZOOM APPLICATION
 •	Result:
 1.	Successfully built a functional video conferencing app with real-time video, audio, and chat features.
 2.	Enabled smooth remote collaboration and virtual meetings without relying on third-party platforms.
-•	Impact:
+    •	Impact:
 1.	Improved accessibility and convenience for users needing secure, custom online meetings.
 2.	Encouraged learning and applications of modern web technologies like WebRTC and real-time communication
